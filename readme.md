@@ -121,8 +121,11 @@ Bookmarks and cached content are stored locally:
 Content is cached when bookmarks are added and remains available offline. Use `r` (refresh) in TUI or re-add bookmarks to update cached content.
 
 ---
-## 📁 License
-MIT
+## 📄 License
+
+under ☕️, check out [the-coffee-license](https://github.com/codinganovel/The-Coffee-License)
+
+I've included both licenses with the repo, do what you know is right. The licensing works by assuming your operating under good faith.
 ---
 ## ✍️ Created by Sam  
 Because bookmarks should show you what's actually on the page.
